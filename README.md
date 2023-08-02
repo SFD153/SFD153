@@ -26,8 +26,28 @@
 [<img align="left" target="_blank" alt="Tailwind CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />][tailwind-course]
 [<img align="left" target="_blank" alt="NodeJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node-js-course]
 [<img align="left" target="_blank" alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />][mern-course]
-[<img align="left" target="_blank" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mern-course]
 [<img align="left" target="_blank" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python-course]
 [<img align="left" target="_blank" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][csharp-course]
 [<img align="left" target="_blank" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql-course]
 [<img align="left" target="_blank" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git-tutorial]
+
+[html-course]: https://github.com/SFD153/#
+[css-course]: https://github.com/SFD153/#
+[php-course]: https://github.com/SFD153/#
+[laravel-course]: https://github.com/SFD153/#
+[javascript-course]: https://github.com/SFD153/#
+[typescript-course]: https://github.com/SFD153/#
+[react-course]: https://github.com/SFD153/#
+[redux-course]: https://github.com/SFD153/#
+[tailwind-course]: https://github.com/SFD153/#
+[node-js-course]: https://github.com/SFD153/#
+[mern-course]: https://github.com/SFD153/#
+[python-course]: https://github.com/SFD153/#
+[csharp-course]: https://github.com/SFD153/#
+[sql-course]: https://github.com/SFD153/#
+[git-tutorial]: https://github.com/SFD153/#
+[twitter]: https://twitter.com/#
+[linkedin]: https://linkedin.com/#
+[youtube]: https://www.youtube.com/#
+[skype]: https://www.skype.com/en/#
+[discord]: https://discord.com/channels/#
