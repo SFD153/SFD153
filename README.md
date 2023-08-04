@@ -16,7 +16,7 @@
 <br />
 <br />
 
-### 💻 Links to Courses & Tutorials:
+### 💻 Skills:
 [<img align="left" target="_blank" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html-course]
 [<img align="left" target="_blank" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css-course]
 [<img align="left" target="_blank" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript-course]
@@ -51,5 +51,5 @@
 [twitter]: https://twitter.com/#
 [linkedin]: https://linkedin.com/#
 [youtube]: https://www.youtube.com/#
-[skype]: https://www.skype.com/en/#
+[skype]: https://join.skype.com/OxmFHKDn3Nm8
 [discord]: https://discord.gg/YUbWCn5SRx
