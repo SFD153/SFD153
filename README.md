@@ -52,4 +52,4 @@
 [linkedin]: https://linkedin.com/#
 [youtube]: https://www.youtube.com/#
 [skype]: https://www.skype.com/en/#
-[discord]: https://discord.com/channels/#
+[discord]: https://discord.gg/YUbWCn5SRx
